@@ -1,0 +1,289 @@
+2020-03-08 09:42:50 pid:1 Bad request for Register service. Request info(IP:127.0.0.1, Request Buffer:GET / HTTP/1.1). See http://doc2.workerman.net/register-auth-timeout.html
+2020-03-08 10:14:26 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:27 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:28 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:29 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:30 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:31 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:32 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:33 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:34 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:35 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:36 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:37 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:38 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:39 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:40 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:41 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:42 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:43 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:44 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:45 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:46 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:47 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:48 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:49 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:50 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:51 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:52 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:53 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:54 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:55 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:56 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:57 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:58 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:14:59 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:15:00 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:15:01 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:15:02 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:15:03 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:15:04 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:15:05 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:15:06 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:15:07 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:15:08 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:15:09 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:15:10 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:15:11 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:15:12 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:15:13 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:15:14 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:15:15 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:15:16 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:15:17 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:15:18 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:15:19 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:15:20 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:15:21 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-08 10:15:22 pid:1 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2020-03-10 06:16:33 pid:1 Error: Cannot use object of type stdClass as array in E:\wamp64\www\trading-platform\GatewayWorker\Applications\YourApp\Events.php:53
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b54000...', '{"msg":"666","f...')
+#1 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(403): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"msg":"666","f...')
+#2 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(658): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Events\Select.php(292): Workerman\Connection\TcpConnection->baseRead(Resource id #27)
+#4 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(2408): Workerman\Events\Select->loop()
+#5 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#6 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1404): GatewayWorker\BusinessWorker->run()
+#7 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1347): Workerman\Worker::forkWorkersForWindows()
+#8 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(546): Workerman\Worker::forkWorkers()
+#9 E:\wamp64\www\trading-platform\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#10 {main}
+2020-03-10 06:16:33 pid:1 Worker process terminated
+2020-03-10 06:16:35 pid:1 Error: Cannot use object of type stdClass as array in E:\wamp64\www\trading-platform\GatewayWorker\Applications\YourApp\Events.php:53
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b54000...', '{"msg":"666","f...')
+#1 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(403): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"msg":"666","f...')
+#2 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(658): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Events\Select.php(292): Workerman\Connection\TcpConnection->baseRead(Resource id #27)
+#4 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(2408): Workerman\Events\Select->loop()
+#5 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#6 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1404): GatewayWorker\BusinessWorker->run()
+#7 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1347): Workerman\Worker::forkWorkersForWindows()
+#8 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(546): Workerman\Worker::forkWorkers()
+#9 E:\wamp64\www\trading-platform\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#10 {main}
+2020-03-10 06:16:35 pid:1 Worker process terminated
+2020-03-10 06:16:44 pid:1 Error: Cannot use object of type stdClass as array in E:\wamp64\www\trading-platform\GatewayWorker\Applications\YourApp\Events.php:53
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b54000...', '{"msg":"99","fr...')
+#1 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(403): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"msg":"99","fr...')
+#2 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(658): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Events\Select.php(292): Workerman\Connection\TcpConnection->baseRead(Resource id #27)
+#4 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(2408): Workerman\Events\Select->loop()
+#5 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#6 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1404): GatewayWorker\BusinessWorker->run()
+#7 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1347): Workerman\Worker::forkWorkersForWindows()
+#8 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(546): Workerman\Worker::forkWorkers()
+#9 E:\wamp64\www\trading-platform\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#10 {main}
+2020-03-10 06:16:44 pid:1 Worker process terminated
+2020-03-10 06:19:19 pid:1 Error: Cannot use object of type stdClass as array in E:\wamp64\www\trading-platform\GatewayWorker\Applications\YourApp\Events.php:53
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b54000...', '{"msg":"99","fr...')
+#1 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(403): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"msg":"99","fr...')
+#2 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(658): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Events\Select.php(292): Workerman\Connection\TcpConnection->baseRead(Resource id #27)
+#4 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(2408): Workerman\Events\Select->loop()
+#5 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#6 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1404): GatewayWorker\BusinessWorker->run()
+#7 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1347): Workerman\Worker::forkWorkersForWindows()
+#8 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(546): Workerman\Worker::forkWorkers()
+#9 E:\wamp64\www\trading-platform\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#10 {main}
+2020-03-10 06:19:19 pid:1 Worker process terminated
+2020-03-10 06:20:02 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2020-03-10 06:20:02 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2020-03-10 06:21:11 pid:1 Error: Cannot use object of type stdClass as array in E:\wamp64\www\trading-platform\GatewayWorker\Applications\YourApp\Events.php:53
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b54000...', '{"msg":"33","fr...')
+#1 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(403): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"msg":"33","fr...')
+#2 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(658): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Events\Select.php(292): Workerman\Connection\TcpConnection->baseRead(Resource id #27)
+#4 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(2408): Workerman\Events\Select->loop()
+#5 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#6 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1404): GatewayWorker\BusinessWorker->run()
+#7 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1347): Workerman\Worker::forkWorkersForWindows()
+#8 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(546): Workerman\Worker::forkWorkers()
+#9 E:\wamp64\www\trading-platform\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#10 {main}
+2020-03-10 06:21:11 pid:1 Worker process terminated
+2020-03-10 06:21:13 pid:1 Error: Cannot use object of type stdClass as array in E:\wamp64\www\trading-platform\GatewayWorker\Applications\YourApp\Events.php:53
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b54000...', '{"msg":"33","fr...')
+#1 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(403): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"msg":"33","fr...')
+#2 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(658): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Events\Select.php(292): Workerman\Connection\TcpConnection->baseRead(Resource id #27)
+#4 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(2408): Workerman\Events\Select->loop()
+#5 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#6 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1404): GatewayWorker\BusinessWorker->run()
+#7 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1347): Workerman\Worker::forkWorkersForWindows()
+#8 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(546): Workerman\Worker::forkWorkers()
+#9 E:\wamp64\www\trading-platform\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#10 {main}
+2020-03-10 06:21:13 pid:1 Worker process terminated
+2020-03-10 06:21:14 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2020-03-10 06:21:14 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://doc2.workerman.net/send-buffer-to-worker-fail.html
+2020-03-10 06:29:43 pid:1 Exception: You can't send(array) to client, you need to convert it to a string.  in E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(344): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\Gateway.php(605): Workerman\Connection\TcpConnection->send(Array, false)
+#2 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(658): GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Events\Select.php(292): Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#4 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(2408): Workerman\Events\Select->loop()
+#5 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#6 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1404): GatewayWorker\Gateway->run()
+#7 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1347): Workerman\Worker::forkWorkersForWindows()
+#8 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(546): Workerman\Worker::forkWorkers()
+#9 E:\wamp64\www\trading-platform\GatewayWorker\Applications\YourApp\start_gateway.php(63): Workerman\Worker::runAll()
+#10 {main}
+2020-03-10 06:29:43 pid:1 Worker process terminated
+2020-03-10 06:30:24 pid:1 Exception: You can't send(array) to client, you need to convert it to a string.  in E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(344): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\Gateway.php(605): Workerman\Connection\TcpConnection->send(Array, false)
+#2 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(658): GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Events\Select.php(292): Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#4 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(2408): Workerman\Events\Select->loop()
+#5 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#6 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1404): GatewayWorker\Gateway->run()
+#7 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1347): Workerman\Worker::forkWorkersForWindows()
+#8 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(546): Workerman\Worker::forkWorkers()
+#9 E:\wamp64\www\trading-platform\GatewayWorker\Applications\YourApp\start_gateway.php(63): Workerman\Worker::runAll()
+#10 {main}
+2020-03-10 06:30:24 pid:1 Worker process terminated
+2020-03-10 06:30:49 pid:1 Exception: You can't send(array) to client, you need to convert it to a string.  in E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(344): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\Gateway.php(605): Workerman\Connection\TcpConnection->send(Array, false)
+#2 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(658): GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Events\Select.php(292): Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#4 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(2408): Workerman\Events\Select->loop()
+#5 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#6 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1404): GatewayWorker\Gateway->run()
+#7 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1347): Workerman\Worker::forkWorkersForWindows()
+#8 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(546): Workerman\Worker::forkWorkers()
+#9 E:\wamp64\www\trading-platform\GatewayWorker\Applications\YourApp\start_gateway.php(63): Workerman\Worker::runAll()
+#10 {main}
+2020-03-10 06:30:49 pid:1 Worker process terminated
+2020-03-10 06:32:09 pid:1 Exception: You can't send(array) to client, you need to convert it to a string.  in E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(344): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\Gateway.php(605): Workerman\Connection\TcpConnection->send(Array, false)
+#2 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(658): GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Events\Select.php(292): Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#4 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(2408): Workerman\Events\Select->loop()
+#5 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#6 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1404): GatewayWorker\Gateway->run()
+#7 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1347): Workerman\Worker::forkWorkersForWindows()
+#8 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(546): Workerman\Worker::forkWorkers()
+#9 E:\wamp64\www\trading-platform\GatewayWorker\Applications\YourApp\start_gateway.php(63): Workerman\Worker::runAll()
+#10 {main}
+2020-03-10 06:32:09 pid:1 Worker process terminated
+2020-03-10 06:33:05 pid:1 Exception: You can't send(array) to client, you need to convert it to a string.  in E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(344): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\Gateway.php(605): Workerman\Connection\TcpConnection->send(Array, false)
+#2 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(658): GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Events\Select.php(292): Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#4 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(2408): Workerman\Events\Select->loop()
+#5 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#6 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1404): GatewayWorker\Gateway->run()
+#7 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1347): Workerman\Worker::forkWorkersForWindows()
+#8 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(546): Workerman\Worker::forkWorkers()
+#9 E:\wamp64\www\trading-platform\GatewayWorker\Applications\YourApp\start_gateway.php(63): Workerman\Worker::runAll()
+#10 {main}
+2020-03-10 06:33:05 pid:1 Worker process terminated
+2020-03-10 06:34:21 pid:1 Exception: You can't send(array) to client, you need to convert it to a string.  in E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(344): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\Gateway.php(605): Workerman\Connection\TcpConnection->send(Array, false)
+#2 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(658): GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Events\Select.php(292): Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#4 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(2408): Workerman\Events\Select->loop()
+#5 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#6 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1404): GatewayWorker\Gateway->run()
+#7 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1347): Workerman\Worker::forkWorkersForWindows()
+#8 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(546): Workerman\Worker::forkWorkers()
+#9 E:\wamp64\www\trading-platform\GatewayWorker\Applications\YourApp\start_gateway.php(63): Workerman\Worker::runAll()
+#10 {main}
+2020-03-10 06:34:21 pid:1 Worker process terminated
+2020-03-10 06:34:30 pid:1 Exception: You can't send(array) to client, you need to convert it to a string.  in E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(344): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\Gateway.php(605): Workerman\Connection\TcpConnection->send(Array, false)
+#2 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(658): GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Events\Select.php(292): Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#4 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(2408): Workerman\Events\Select->loop()
+#5 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#6 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1404): GatewayWorker\Gateway->run()
+#7 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1347): Workerman\Worker::forkWorkersForWindows()
+#8 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(546): Workerman\Worker::forkWorkers()
+#9 E:\wamp64\www\trading-platform\GatewayWorker\Applications\YourApp\start_gateway.php(63): Workerman\Worker::runAll()
+#10 {main}
+2020-03-10 06:34:30 pid:1 Worker process terminated
+2020-03-10 06:35:24 pid:1 Exception: You can't send(array) to client, you need to convert it to a string.  in E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(344): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\Gateway.php(605): Workerman\Connection\TcpConnection->send(Array, false)
+#2 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(658): GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Events\Select.php(292): Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#4 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(2408): Workerman\Events\Select->loop()
+#5 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#6 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1404): GatewayWorker\Gateway->run()
+#7 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1347): Workerman\Worker::forkWorkersForWindows()
+#8 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(546): Workerman\Worker::forkWorkers()
+#9 E:\wamp64\www\trading-platform\GatewayWorker\Applications\YourApp\start_gateway.php(63): Workerman\Worker::runAll()
+#10 {main}
+2020-03-10 06:35:24 pid:1 Worker process terminated
+2020-03-10 10:08:13 pid:1 Worker process terminated
+2020-03-10 10:11:12 pid:1 Worker process terminated
+2020-03-12 06:24:11 pid:1 Worker process terminated
+2020-03-23 09:15:21 pid:1 Error: Call to a member function prepare() on null in E:\wamp64\www\trading-platform\GatewayWorker\Applications\YourApp\Events.php:147
+Stack trace:
+#0 [internal function]: Events::onClose('7f0000010b54000...')
+#1 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(409): call_user_func('Events::onClose', '7f0000010b54000...')
+#2 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(658): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Events\Select.php(292): Workerman\Connection\TcpConnection->baseRead(Resource id #28)
+#4 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(2408): Workerman\Events\Select->loop()
+#5 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#6 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1404): GatewayWorker\BusinessWorker->run()
+#7 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1347): Workerman\Worker::forkWorkersForWindows()
+#8 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(546): Workerman\Worker::forkWorkers()
+#9 E:\wamp64\www\trading-platform\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#10 {main}
+2020-03-23 09:15:21 pid:1 Worker process terminated
+2020-03-23 09:16:45 pid:1 Error: Call to a member function prepare() on null in E:\wamp64\www\trading-platform\GatewayWorker\Applications\YourApp\Events.php:148
+Stack trace:
+#0 [internal function]: Events::onClose('7f0000010b54000...')
+#1 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(409): call_user_func('Events::onClose', '7f0000010b54000...')
+#2 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Connection\TcpConnection.php(658): GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Events\Select.php(292): Workerman\Connection\TcpConnection->baseRead(Resource id #27)
+#4 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(2408): Workerman\Events\Select->loop()
+#5 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#6 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1404): GatewayWorker\BusinessWorker->run()
+#7 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(1347): Workerman\Worker::forkWorkersForWindows()
+#8 E:\wamp64\www\trading-platform\GatewayWorker\vendor\workerman\workerman\Worker.php(546): Workerman\Worker::forkWorkers()
+#9 E:\wamp64\www\trading-platform\GatewayWorker\Applications\YourApp\start_businessworker.php(35): Workerman\Worker::runAll()
+#10 {main}
+2020-03-23 09:16:45 pid:1 Worker process terminated
