@@ -33,7 +33,7 @@ $sql = "select u.user_id,u.user_name,u.success_num,u.register_time,u.address,u.u
 ._likeParam('u.user_name',$userName)
 ._rangeParam('u.user_status',$status)
 ._betweenParam('u.success_num',$successArr[0],$successArr[1])
-."order by u.user_status;";
+."order by u.user_status desc,u.register_time;";
 //模糊查询的参数处理
 $userName = '%'.$userName.'%';
 $p = $conn->prepare($sql);

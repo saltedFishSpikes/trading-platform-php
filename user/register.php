@@ -28,13 +28,14 @@ if($p->execute()){
     $p->free_result();
     $p->close();
      // 注册新用户
-    $sql = "insert into user (user_name,password,register_time,address,user_status) values (?,?,?,?,?);";
+    $sql2 = "insert into user (user_name,password,register_time,address,offline_time,user_status) values (?,?,?,?,?,?);";
     $registerTime = getUnixTimestamp();
+    $offlineTime = getUnixTimestamp();
     $userStatus = 1;
     $password = substr(md5($password),8,16);
-    $p = $conn->prepare($sql);
-    $p->bind_param('ssisi',$userName,$password,$registerTime,$address,$userStatus);
-    if($p->execute()){
+    $p2 = $conn->prepare($sql2);
+    $p2->bind_param('ssisii',$userName,$password,$registerTime,$address,$offlineTime,$userStatus);
+    if($p2->execute()){
       $res = array(
         "code"=>1000,
         "data"=>"注册成功"
@@ -46,10 +47,10 @@ if($p->execute()){
         "data"=>"注册失败"
       );
       echo json_encode($res,JSON_UNESCAPED_UNICODE);
-      $p->free_result();
-      $p->close();
-      $conn->close();
     }
+    $p2->free_result();
+    $p2->close();
+    $conn->close();
   }
 }else {
   $res = array(
